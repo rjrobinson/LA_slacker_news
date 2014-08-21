@@ -110,3 +110,18 @@ footer {
 #footer_navigation li:last-child {
   border-right: 0; }
 
+#wrapper > nav > ul > li:last-child {
+  border-right: none;
+}
+
+#wrapper > nav > ul > li:first-child {
+  border-left: none;
+}
+
+#wrapper > nav > ul > li:nth-child(2) {
+  border-right: none;
+}
+
+
+
+
