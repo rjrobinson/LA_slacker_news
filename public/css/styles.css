@@ -1,5 +1,5 @@
 nav {
-  background-color: #FF6600;
+  background-color: #7D93B5;
   color: black; }
 
 #wrapper > nav > ul > img {
@@ -21,7 +21,7 @@ nav ul li a {
   font-size: 1.1em; }
 
 #wrapper {
-  background-color: #F6F6EF;
+  background-color: #F5F5F5;
   max-width: 960px;
   width: 80%;
   margin: 0 auto; }
@@ -81,7 +81,7 @@ nav ul li {
   margin-left: -45px; }
 
 footer {
-  border-top: solid 5px #FF6600; }
+  border-top: solid 5px #7D93B5; }
 
 footer li a {
   color: black;
